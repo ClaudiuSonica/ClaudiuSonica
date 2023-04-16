@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClaudiuSonica
-- 👀 I’m interested in ... Python
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently learning ... Html Css and soon Javascript
+- 💞️ I’m looking to collaborate on ... Any kind of projet 
 - 📫 How to reach me ... csonica95@gmail.com
 
 <!---
