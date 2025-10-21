@@ -1,25 +1,82 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Learnify, a platform for hosting diverse courses, lessons, quizzes, and exercises. It’s designed to provide interactive learning experiences, focusing on subjects like programming, e-commerce, and science. Built with Laravel 11, React, and MySQL 8, Learnify features a badge system, a progress dashboard, and role-based access for students, teachers, and admins.<br>👯 I’m looking to collaborate on<br>Any project that includes Laravel, React, or Vue. I’m excited to contribute to innovative solutions that bridge technology and user experience.<br>🤝 I’m looking for help with<br>Scaling Learnify to handle more users and subjects.<br>Enhancing user experience with state management in React.<br>Exploring machine learning integrations for personalized learning paths.<br>🌱 I’m currently learning<br>Advanced React patterns for UI optimization.<br>Scalable Laravel API development.<br>Integrating Vue 3 for modular front-end components.<br>💬 Ask me about<br>Building e-learning platforms from scratch.<br>Using Laravel for robust backend systems.<br>Optimizing performance in full-stack applications.<br>⚡ Fun fact<br>I’m passionate about creating tools that make learning accessible and fun—one line of code at a time!<br>
+# 👋 Hey, I'm Claudiu Sonica
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/claudiusonica) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/claudiusonica) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ClaudiuSonica&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ClaudiuSonica&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiuSonica&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+💻 **Full Stack Developer** focused on building scalable, data-driven web applications and SaaS products.  
+I combine solid backend architecture with clean, performant front-end experiences — always aiming for real-world usability and smart automation.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ClaudiuSonica&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/claudiusonica) 
+## 🚀 What I'm Working On
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⏱️ **[TempoTrack](https://tempotrack.online)** — A **time-tracking and analytics app** designed for individuals and teams.  
+Built with the **MERN stack (MongoDB, Express, React, Node.js)**, TempoTrack includes:
+- Task & project management with custom labels  
+- Detailed work logs and productivity charts  
+- Chrome extension for background tracking  
+- Modern dashboard UI with real-time analytics  
+
+🧩 **Sonix.Web** — My independent software studio where I design and build modular, scalable tools.  
+It serves as a foundation for upcoming products — focused on performance, code quality, and seamless UX.
+
+---
+
+## 🧠 Current Focus
+
+- Building and scaling SaaS ecosystems  
+- Clean architectures with **Node, Prisma, and PostgreSQL**  
+- Backend APIs using **Laravel 11** and **Express**  
+- Front-end interfaces with **React (Vite)** and **Vue 3 (Pinia, Tailwind)**  
+- Cloud deployment with **Render**, **Netlify**, and **GitHub Actions**  
+- Continuous improvement in performance, maintainability, and DX (Developer Experience)
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+**Databases & ORM**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Tools & Workflow**  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ClaudiuSonica&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ClaudiuSonica&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudiuSonica&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/claudiusonica)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/claudiusonica)
+
+---
+
+## ☕ Support My Work
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/claudiusonica)
+
+---
+
+<!-- Crafted with ❤️ by Claudiu Sonica | Sonix.Web -->
